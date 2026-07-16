@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**MuhammadBilal-06/MuhammadBilal-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bilal, a developer based in Faisalabad, Pakistan.
 
-Here are some ideas to get you started:
+I build things across web, mobile, and desktop — from full-stack apps to C# / .NET systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My main tech stack is Next.js, TypeScript, Tailwind CSS, and C# / .NET. My favorite tools are shadcn/ui, Framer Motion, and VS Code.
+
+I like taking an idea from a blank page to something that actually works and ships.
+
+Fun Facts:
+
+
+Currently a university student, building on the side
+I care more about shipping something real than perfecting it forever
+Hobbies: coding, design, building things people actually use
 -->
